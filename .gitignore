@@ -1,6 +1,3 @@
-/target/
-!.mvn/wrapper/maven-wrapper.jar
-
 ### STS ###
 .apt_generated
 .classpath
@@ -25,5 +22,4 @@
 /nbdist/
 /.nb-gradle/
 
-src/main/resources/application-home.yml
-src/main/resources/application-elena.yml
+out/
